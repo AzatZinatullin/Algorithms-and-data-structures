@@ -1,0 +1,1 @@
+cc1plus: warning: -Wuninitialized is not supported without -O

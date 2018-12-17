@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	918D82011F75C8B300DC8B06 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AA01EFC61FEB1EC3001C38A3 /* Nasledovanie */;
+		activeTarget = 918D82081F75C8B300DC8B06 /* Nasledovanie */;
+		codeSenseManager = AA01EFD01FEB1ED0001C38A3 /* Code sense */;
+		executables = (
+			AA01EFC61FEB1EC3001C38A3 /* Nasledovanie */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 536177502;
+			PBXWorkspaceStateSaveDate = 536177502;
+		};
+		sourceControlManager = AA01EFCF1FEB1ED0001C38A3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	918D82081F75C8B300DC8B06 /* Nasledovanie */ = {
+		activeExec = 0;
+		executables = (
+			AA01EFC61FEB1EC3001C38A3 /* Nasledovanie */,
+		);
+	};
+	AA01EFC61FEB1EC3001C38A3 /* Nasledovanie */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nasledovanie;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	AA01EFCF1FEB1ED0001C38A3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AA01EFD01FEB1ED0001C38A3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

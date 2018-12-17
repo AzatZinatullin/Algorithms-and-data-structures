@@ -1,0 +1,73 @@
+TMnogestva 2
+v7
+r0
+t535419854.111477
+cCheck dependencies
+cCompileC "build/Mnogestva 2.build/Debug/Mnogestva 2.build/Objects-normal/x86_64/main.o" "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug/Mnogestva 2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/array.h
+c000000005A34F67A0000000000000D03
+t1513420410
+s3331
+i<cstring>
+i<iostream>
+
+N/Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/main.cpp
+c000000005A39A442000000000000047F
+t1513727042
+s1151
+i<iostream>
+i<time.h>
+i"array.h"
+
+N/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug/Mnogestva 2
+t1513727043
+s17184
+
+N/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Objects-normal/x86_64/Mnogestva 2.LinkFileList
+c000000005A39A436000000000000007A
+t1513727030
+s122
+
+N/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Objects-normal/x86_64/main.o
+t1513727043
+s79132
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies535419854#535419854#0(155"[WARN]Mac OS X deployment target '10.7' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.1(22@148"Mac OS X deployment target '10.7' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.535419854#18446744073709551615#0#0(1@0"0(0#1#0"8607850944#0"0#
+
+CCompileC "build/Mnogestva 2.build/Debug/Mnogestva 2.build/Objects-normal/x86_64/main.o" "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s535419842.797181
+e535419843.532999
+r1
+xCompileC
+xbuild/Mnogestva 2.build/Debug/Mnogestva 2.build/Objects-normal/x86_64/main.o
+x/Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/main.cpp535419842#535419843#0(62"cc1plus: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O535419843#0#62#0(6@0"535419843#0#0#0#0#0"0(0#0#65"/Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/main.cpp8606917984#1489"    cd "/Volumes/Files/StudLeti/АиСД/Mnogestva 2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Mnogestva 2-generated-files.hmap" "-I/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Mnogestva 2-own-target-headers.hmap" "-I/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Mnogestva 2-all-target-headers.hmap" -iquote "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Mnogestva 2-project-headers.hmap" "-F/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug" "-I/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug/include" "-I/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/DerivedSources/x86_64" "-I/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/DerivedSources" -c "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/Mnogestva 2/main.cpp" -o "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug/Mnogestva 2" normal x86_64
+s535419843.533134
+e535419843.700135
+r1
+xLd
+x/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug/Mnogestva 2
+xnormal
+xx86_64
+lSLF07#2@73"Link /Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug/Mnogestva 2535419843#535419843#0(0"0(0#0#0"8600327168#563"    cd "/Volumes/Files/StudLeti/АиСД/Mnogestva 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug" "-F/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug" -filelist "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Mnogestva 2.build/Debug/Mnogestva 2.build/Objects-normal/x86_64/Mnogestva 2.LinkFileList" -mmacosx-version-min=10.7 -prebind -o "/Volumes/Files/StudLeti/АиСД/Mnogestva 2/build/Debug/Mnogestva 2"0#
+
